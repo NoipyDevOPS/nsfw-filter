@@ -67,11 +67,101 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "bradydowling",
+      "name": "Brady Dowling",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6668371?v=4",
+      "profile": "https://www.youtube.com/channel/UCPGv2tVqEt6iBFnnMTjnRBA",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "mikecrittenden",
+      "name": "Mike Crittenden",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32261?v=4",
+      "profile": "http://littlebluelabs.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "garfieldbanks",
+      "name": "garfieldbanks",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12904270?v=4",
+      "profile": "https://github.com/garfieldbanks",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "TitusRobyK",
+      "name": "Titus Roby K",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32787952?v=4",
+      "profile": "https://github.com/TitusRobyK",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "hsusanoo",
+      "name": "Haitam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35850056?v=4",
+      "profile": "https://github.com/hsusanoo",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "lizhendong128",
+      "name": "lizhendong128",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24618122?v=4",
+      "profile": "https://github.com/lizhendong128",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Woctor-Dho",
+      "name": "Woctor-Dho",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25572322?v=4",
+      "profile": "https://github.com/Woctor-Dho",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "miaokun-normal",
+      "name": "miaokun-normal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67724210?v=4",
+      "profile": "https://github.com/miaokun-normal",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "kitsune7",
+      "name": "Christopher Bradshaw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1205871?v=4",
+      "profile": "https://christopher-bradshaw.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "wingman-jr-addon",
+      "name": "wingman-jr-addon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55339824?v=4",
+      "profile": "https://github.com/wingman-jr-addon",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "nsfw-filter",
-  "projectOwner": "navendu-pottekkat",
+  "projectOwner": "nsfw-filter",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
